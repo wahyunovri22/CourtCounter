@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_6a40ecdfca28d3b1449a0c502c4c95cb4d7760da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_8b15c7bdf8eb8f7ef626b7bc58b81d74487f960d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_8a30a0625f6bc53652898f5dc7e1afc00db31200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_c2d9d202027aee57bb9189f9c19fe869d47e346f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab09117c48f3316c8f81ffc8954644c734ea37f1">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\instant-run_9e91fdd981692b3a0a43f59f81a48c9683402d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_4b920ce3dab86b91e49ce30d49dd95b094a08270.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_eb2d748aea98b3d0aeed6cd7cf71a5a1a1c7cd64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c86171c27ff24dc85f32f159d8050d17d133bd0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ce6fb151b916caa2aa716e617b5c17abd4910076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5918332b7b2d05275d59fe0f17a4f61944a196f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9ca41497dbe34b2444634ccc0802755308ff8945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_638857ca7c143cb478030f9758083661860e9f18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_1321778fa639e26381b3ee7a61408334a67c86d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_8fe764ef8c5107eb833b517e54ad3c195680ffb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_cdb0d1e605c0976076481a34bb05f5376fa6d82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_b8bcc4973a3f385bf3f6e2e6fea2058ac2a6b01e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34d18445781f5d847af834538f3dbfa33d47d155">
+        <dex dex="C:\Users\cia\AndroidStudioProjects\CourtCounter\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_47c9e1b566891e062d65fa20a5aa4ddd24f14131.jar" />
+    </item>
+
+</items>
